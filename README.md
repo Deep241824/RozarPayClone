@@ -1,5 +1,5 @@
 
-Deployment Link => []
+Deployment Link => [https://rozar-pay.vercel.app/]
 
 Razorpay Clone
 A simple clone of Razorpay's user interface created using HTML and Tailwind CSS. 
